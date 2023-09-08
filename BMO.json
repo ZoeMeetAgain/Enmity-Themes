@@ -65,20 +65,20 @@
             "#7030A0"
         ],
         "BACKGROUND_PRIMARY": [
-            "#00B050",
-            "#00B050"
+            "#d9ffea",
+            "#d9ffea"
         ],
         "BACKGROUND_SECONDARY": [
-            "#7030A0",
-            "#7030A0"
+            "#63bda4",
+            "#63bda4"
         ],
         "BACKGROUND_SECONDARY_ALT": [
-            "#FF0000",
-            "#FF0000"
+            "#63bda4",
+            "#63bda4"
         ],
         "BACKGROUND_TERTIARY": [
-            "#ED7D31",
-            "#ED7D31"
+            "#63bda4",
+            "#63bda4"
         ],
         "CHANNELS_DEFAULT": [
             "#FFFF00",
