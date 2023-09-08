@@ -340,10 +340,5 @@
         "PRIMARY_900": "#0070C0",
         "WHITE_500": "#FFFF00"
     },
-		"background": {
-        "blur": 70,
-        "url": "",
-        "alpha": 1
-    },
     "spec": 2
 }
