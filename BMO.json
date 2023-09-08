@@ -341,7 +341,7 @@
         "WHITE_500": "#FFFF00"
     },
 		"background": {
-        "blur": 0.1,
+        "blur": 70,
         "url": "https://wallpapers.com/images/high/cute-green-na5tljgb6j6aozsp.png",
         "alpha": 1
     },
